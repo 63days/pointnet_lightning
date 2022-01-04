@@ -1,0 +1,4 @@
+pytorch-lightning==1.5.5
+hydra-core==1.1.0
+omegaconf==2.1.1
+wandb
