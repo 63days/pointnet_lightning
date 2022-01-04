@@ -1,0 +1,7 @@
+wandb:
+    _target_: pytorch_lightning.logger.wandb.WandbLogger
+
+    project: "pointnet-tests"
+    name: ${name}
+    save_dir: "."
+    log_model: "all"

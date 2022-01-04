@@ -1,0 +1,6 @@
+_target_: datamodule.ModelNet40DataModule
+
+data_dir: ${data_dir}
+batch_size: 64
+num_workers: 4
+num_classes: 40

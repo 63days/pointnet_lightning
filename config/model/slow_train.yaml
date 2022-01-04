@@ -1,0 +1,5 @@
+defaults:
+    - default.yaml
+
+lr: 1e-5
+weight_decay: 0
